@@ -1,0 +1,1 @@
+# membuat angka 48 menggunakan javascript
